@@ -37,7 +37,7 @@ public class Aldrin02 {
         }
         else
         {
-        System.out.println("invalid");
+        System.out.println("ediwow");
         }
     }
 }
